@@ -1,0 +1,50 @@
+.header{
+    display:flex;
+    justify-content: center;
+    background-color: #f67280;
+    font-style: oblique;
+    margin:30px;
+    border:solid;
+}
+.title{
+    display:flex;
+    justify-content: center;
+    font-style: italic;
+}
+.jc{
+    display:flex;
+    justify-content: space-around;
+}
+.jc2{
+    display:flex;
+    justify-content: space-around;
+}
+.info{
+    
+    display:flex;
+    justify-content: space-evenly;
+    margin: 20px;
+    border:solid;
+    
+}
+.enroll{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.footer{
+    background-color: #f67280;
+}
+body{
+   background-color: #e9cfcf;
+}
+a:link{
+    color:  lightskyblue;
+}
+a:visited{
+    color:rgb(15, 139, 180);
+}
+.enroll:hover img{
+    opacity:0.22;
+    
+}
